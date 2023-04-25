@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/disney/images/5/56/Profile_-_Rex.jpeg/revision/latest?cb=20190313050619",
+      "image": "https://i.etsystatic.com/21091952/r/il/f30d6a/2738435594/il_1140xN.2738435594_jq6y.jpg",
       "likes": 1
     },
     {
@@ -47,6 +47,24 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "",
+      "image": "",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "teddy bear",
+      "image": "https://lingokids.com/wp-content/uploads/2020/11/20172F092F292F102F162F192Fdc17afbe-384e-4f4d-9425-b8741a0a38b62FTeddyBear.png",
+      "likes": 0,
+      "id": 11
     }
   ]
 }
